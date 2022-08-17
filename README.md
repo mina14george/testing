@@ -1,3 +1,3 @@
 # testing
-for test my git hub knowlage 
+for testing my git hub knowlage 
 
